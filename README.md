@@ -3,9 +3,9 @@
 ** Ideazione di un sito su Levanto
 
 - [x] Ottenimento dati per le pagine;
-- [ ] Creazione index;
-- [ ] Creazione pagina "Geografia Fisica";
-- [ ] Creazione pagina "Storia";
+- [x] Creazione index;
+- [x] Creazione pagina "Geografia Fisica";
+- [x] Creazione pagina "Storia";
 - [ ] Creazione pagina "Monumenti Religiosi";
 - [ ] Creazione pagina "Monumenti Civili";
 - [ ] Creazione pagina "Monumenti Militari";
